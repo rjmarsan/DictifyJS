@@ -11,6 +11,10 @@
 
 My fork of UglifyJS.  One-char vars are so uncool. vars like 'purveyances' are much cooler. 
 
+** Original text below:
+
+
+
 This package implements a general-purpose JavaScript
 parser/compressor/beautifier toolkit.  It is developed on [[http://nodejs.org/][NodeJS]], but it
 should work on any JavaScript platform supporting the CommonJS module system
